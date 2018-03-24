@@ -10,4 +10,4 @@ GAME RULES:
 - The first player to reach 20 points on GLOBAL score wins the game
 
 
- 
+ ![alt text](https://github.com/BrianR12/dice-game/blob/master/dice_game.png)
